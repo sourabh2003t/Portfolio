@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.53047e3d.css",
+    "main.js": "/Portfolio/static/js/main.9d8cafad.js",
+    "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
+    "static/media/Gym_Home.png": "/Portfolio/static/media/Gym_Home.e2faacf17d449766133f.png",
+    "static/media/Car_Slide.png": "/Portfolio/static/media/Car_Slide.2d9ca01ddfecde13b592.png",
+    "static/media/Car_service.png": "/Portfolio/static/media/Car_service.71c72965ff054baf538c.png",
+    "static/media/Foodie_2.png": "/Portfolio/static/media/Foodie_2.d6c31f00fa86b44fe17d.png",
+    "static/media/Gym_Footer.png": "/Portfolio/static/media/Gym_Footer.d22ed55adaf6f8f113a4.png",
+    "static/media/Foodie_Home.png": "/Portfolio/static/media/Foodie_Home.3188c8f2b66785b7a73e.png",
+    "static/media/Gym_Signup.png": "/Portfolio/static/media/Gym_Signup.237e5233fda81900658c.png",
+    "static/media/Gym_Login.png": "/Portfolio/static/media/Gym_Login.cd5d4df3c8b932a26282.png",
+    "static/media/p.jpg": "/Portfolio/static/media/p.c14e24e05a2d6ada6ed1.jpg",
+    "static/media/git.png": "/Portfolio/static/media/git.79538fae781059ffde36.png",
+    "static/media/react.png": "/Portfolio/static/media/react.f2bac7a4cf2cf0e5e06b.png",
+    "static/media/Car_Signup.png": "/Portfolio/static/media/Car_Signup.b9f3135277482935ced7.png",
+    "static/media/js.png": "/Portfolio/static/media/js.c1da7f12f33dcaf89532.png",
+    "static/media/jssss.png": "/Portfolio/static/media/jssss.762e58011f0634bd4ef4.png",
+    "static/media/Gym_addTocart.png": "/Portfolio/static/media/Gym_addTocart.0ee8e39c97594454fcb0.png",
+    "static/media/Car_Home.png": "/Portfolio/static/media/Car_Home.60a2b72ac215e22da194.png",
+    "static/media/Car_login.png": "/Portfolio/static/media/Car_login.7d9dc05c99e23218d13b.png",
+    "static/media/Sourabh_Totod.pdf": "/Portfolio/static/media/Sourabh_Totod.c4ac5efe55a499fa4da6.pdf",
+    "static/media/mongg.png": "/Portfolio/static/media/mongg.0cbb79e2c2787141b3df.png",
+    "static/media/pp.jpg": "/Portfolio/static/media/pp.39a14e611db87b7d7be8.jpg",
+    "static/media/Foodie_4.png": "/Portfolio/static/media/Foodie_4.5bcc8e8a2d13f25dea16.png",
+    "static/media/Foodie_3.png": "/Portfolio/static/media/Foodie_3.e1e2dddbcc912bebee37.png",
+    "static/media/Foodie_5.png": "/Portfolio/static/media/Foodie_5.218c49838a28336a6150.png",
+    "static/media/slick.svg": "/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.53047e3d.css.map": "/Portfolio/static/css/main.53047e3d.css.map",
+    "main.9d8cafad.js.map": "/Portfolio/static/js/main.9d8cafad.js.map",
+    "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53047e3d.css",
+    "static/js/main.9d8cafad.js"
+  ]
+}
