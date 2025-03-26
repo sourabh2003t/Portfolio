@@ -8,13 +8,46 @@ body {
   font-family: 'Poppins', sans-serif;
   background-color: #f7f5ff;
   color: #333;
-}
+  line-height: 1.6;
+  overflow-x: hidden; }
 
 h2 {
   color: #ff66b2;
+  font-size: 2.2rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+h2::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 3px;
+  background-color: #ff66b2;
+  margin: 10px auto 0;
 }
 
 section {
-  padding: 50px 10px;
+  padding: 50px 20px;
   text-align: center;
+}
+
+@media (max-width: 768px) {
+  h2 {
+    font-size: 1.8rem;
+  }
+
+  section {
+    padding: 40px 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  section {
+    padding: 30px 10px;
+  }
 }
